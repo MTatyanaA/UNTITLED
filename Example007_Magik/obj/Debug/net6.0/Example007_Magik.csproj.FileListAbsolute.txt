@@ -1,0 +1,15 @@
+C:\Users\д\Desktop\UNTITLED\Examples\Example007_Magik\bin\Debug\net6.0\Example007_Magik.exe
+C:\Users\д\Desktop\UNTITLED\Examples\Example007_Magik\bin\Debug\net6.0\Example007_Magik.deps.json
+C:\Users\д\Desktop\UNTITLED\Examples\Example007_Magik\bin\Debug\net6.0\Example007_Magik.runtimeconfig.json
+C:\Users\д\Desktop\UNTITLED\Examples\Example007_Magik\bin\Debug\net6.0\Example007_Magik.dll
+C:\Users\д\Desktop\UNTITLED\Examples\Example007_Magik\bin\Debug\net6.0\Example007_Magik.pdb
+C:\Users\д\Desktop\UNTITLED\Examples\Example007_Magik\obj\Debug\net6.0\Example007_Magik.csproj.AssemblyReference.cache
+C:\Users\д\Desktop\UNTITLED\Examples\Example007_Magik\obj\Debug\net6.0\Example007_Magik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\д\Desktop\UNTITLED\Examples\Example007_Magik\obj\Debug\net6.0\Example007_Magik.AssemblyInfoInputs.cache
+C:\Users\д\Desktop\UNTITLED\Examples\Example007_Magik\obj\Debug\net6.0\Example007_Magik.AssemblyInfo.cs
+C:\Users\д\Desktop\UNTITLED\Examples\Example007_Magik\obj\Debug\net6.0\Example007_Magik.csproj.CoreCompileInputs.cache
+C:\Users\д\Desktop\UNTITLED\Examples\Example007_Magik\obj\Debug\net6.0\Example007_Magik.dll
+C:\Users\д\Desktop\UNTITLED\Examples\Example007_Magik\obj\Debug\net6.0\refint\Example007_Magik.dll
+C:\Users\д\Desktop\UNTITLED\Examples\Example007_Magik\obj\Debug\net6.0\Example007_Magik.pdb
+C:\Users\д\Desktop\UNTITLED\Examples\Example007_Magik\obj\Debug\net6.0\Example007_Magik.genruntimeconfig.cache
+C:\Users\д\Desktop\UNTITLED\Examples\Example007_Magik\obj\Debug\net6.0\ref\Example007_Magik.dll
